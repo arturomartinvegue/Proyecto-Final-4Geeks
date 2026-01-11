@@ -39,6 +39,10 @@ Manual de gestión de seguridad alineado con **ISO 27001** y el framework **NIST
 * **Frameworks:** NIST SP 800-61, ISO 27001, RGPD, ENS.
 
 ---
-**Autor:** Arturo Martín-VeguE
+
+**Autor:** Arturo Martín-Vegue
+
 **Bootcamp:** 4Geeks Academy
+
 **Fecha:** 6 de enero de 2026
+
