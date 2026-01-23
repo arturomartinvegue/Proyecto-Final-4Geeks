@@ -1,6 +1,6 @@
 # 🏥 Proyecto Final Ciberseguridad: Hospital General de Madrid
 
-Este repositorio contiene el trabajo integral realizado para el proyecto final del Bootcamp de Ciberseguridad en **4Geeks Academy**. Se presenta un caso de estudio sobre el **Hospital General de Madrid** (organización ficticia), que abarca la respuesta ante incidentes, auditoría ofensiva y gobernanza técnica bajo marcos de trabajo internacionales.
+Este repositorio contiene el trabajo integral realizado para el proyecto final de de Ciberseguridad en **4Geeks Academy**. Se presenta un caso de estudio sobre el **Hospital General de Madrid** (organización ficticia), que abarca la respuesta ante incidentes, auditoría ofensiva y gobernanza técnica bajo marcos de trabajo internacionales.
 
 ## 📌 Descripción del Proyecto
 El objetivo principal fue asegurar la infraestructura de un servidor crítico con la dirección IP **192.168.122.10**. Este activo custodia historiales clínicos e información sensible de pacientes y personal. El proyecto demuestra la capacidad de actuar en los tres pilares de la seguridad: detección, defensa y cumplimiento normativo (RGPD/ENS).
@@ -45,4 +45,5 @@ Manual de gestión de seguridad alineado con **ISO 27001** y el framework **NIST
 **Bootcamp:** 4Geeks Academy
 
 **Fecha:** 6 de enero de 2026
+
 
